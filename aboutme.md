@@ -7,14 +7,14 @@ subtitle:
 I'm an experienced full-stack software engineer, passionate about building distributed and high-performance Internet-scale systems.
 
 #### Skills:
- - Languages: Java, JavaScript, C#, C++, Python, Scala, Go.
- - Frontend: React, Redux, Relay, GraphQL, RxJS, Webpack, React-Native.
- - Services: ASP.NET, Spring Boot, Node.js, RabbitMQ, Redis, OAuth2.
- - Database: SQL Server, MySQL, MongoDb.
- - Big Data: Spark, Mesos, Akka, Casandra, Kafka, Lambda Architecture.
- - Cloud/DevOps: Jenkins, Docker, Kubernetes, 12-Facor Apps, Immutable Infrastructure, HashiStack, AWS.
- - Architecture: DDD, CQRS/ES, Microservices, Serverless, Reactive Systems.
- - Fundamentals: OOA/D, Design Patterns, SOLID, Distributed Systems, Concurrency, Linux, TCP/IP.
+ - Languages: C#, Java, JavaScript, TypeScript, C++, Python, Scala, Go.
+ - Frontend: React, Redux, Angular, Relay/GraphQL, RxJS, Webpack.
+ - Services: ASP.NET, Spring, Node.js, Akka.
+ - Database: SQL Server, MySQL, MongoDb, Redis, Casandra.
+ - Big Data: Spark, Kafka, Lambda Architecture.
+ - DevOps/Cloud: Jenkins, Docker, Kubernetes, HashiStack, 12-Factor Apps.
+ - Architecture: Patterns of EAA, DDD, CQRS/ES, Microservices, Serverless, Reactive Systems.
+ - Fundamentals: OOA/D, Design Patterns, SOLID, Concurrency, Distributed Systems.
 
 #### Github Projects:
  - [minpiler](https://github.com/syedraihan/minpiler): A minimum implementation of Racket to x86-64 assembly compiler.
