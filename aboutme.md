@@ -7,9 +7,9 @@ subtitle:
 I'm an experienced full-stack software engineer, passionate about building distributed and high-performance Internet-scale systems.
 
 #### Skills:
- - Languages: C#, Java, JavaScript, TypeScript, C++, Python, Scala, Go.
+ - Languages: C#, Java, JavaScript, TypeScript, C++, Python.
  - Frontend: React, Redux, Angular, Relay/GraphQL, RxJS, Webpack.
- - Services: ASP.NET, Spring, Node.js, Akka.
+ - Services: ASP.NET, Spring, Node.js.
  - Database: SQL Server, MySQL, MongoDb, Redis, Casandra.
  - Big Data: Spark, Kafka, Lambda Architecture.
  - DevOps/Cloud: Jenkins, Docker, Kubernetes, AWS, Azure, HashiStack, 12-Factor Apps.
