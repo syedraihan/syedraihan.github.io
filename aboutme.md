@@ -12,7 +12,7 @@ I'm an experienced full-stack software engineer, passionate about building distr
  - Services: ASP.NET, Spring, Node.js, Akka.
  - Database: SQL Server, MySQL, MongoDb, Redis, Casandra.
  - Big Data: Spark, Kafka, Lambda Architecture.
- - DevOps/Cloud: Jenkins, Docker, Kubernetes, HashiStack, 12-Factor Apps.
+ - DevOps/Cloud: Jenkins, Docker, Kubernetes, AWS, Azure, HashiStack, 12-Factor Apps.
  - Architecture: Patterns of EAA, DDD, CQRS/ES, Microservices, Serverless, Reactive Systems.
  - Fundamentals: OOA/D, Design Patterns, SOLID, Concurrency, Distributed Systems.
 
